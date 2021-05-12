@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(136, 215, 218);
+}
+h1{
+color: darkcyan ;
+font-size: 100px;
+margin-left: 45%;
+text-shadow: 10px 5px 10px  darkcyan;
+}
+button{
+    padding: 25px 55px;
+    background-color: darkcyan;
+    border-radius: 15px;
+    color: white;
+    box-shadow: 15px 15px 15px darkcyan;
+}
